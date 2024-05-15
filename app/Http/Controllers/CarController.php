@@ -45,6 +45,7 @@ class CarController extends Controller
 
         ]);
         return redirect()->route('index');
+
     }
 
     /**
